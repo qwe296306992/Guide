@@ -9,3 +9,5 @@
 **Creating a new branch is quick and simple.**
 
 * 这句话是从分支Dev修改的
+
+* 这句话是从分支Second修改的
