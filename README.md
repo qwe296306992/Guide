@@ -5,3 +5,5 @@
 
 	Hello World from branch master!
 	Hello World from branch Dev!
+
+**Create a new branch is quick AND simple.**
